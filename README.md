@@ -11,16 +11,7 @@
 | 7. | Develop a simple application with one EditText so that the user can write some text in it. Create a button called "Convert Text to Speech" that converts the user input text into voice. | [Click here](p7-TextToSpeechApp/) |
 | 8. | Create an activity like a phone dialer with CALL and SAVE buttons. On pressing the CALL button, it must call the phone number and on pressing the SAVE button it must save the number to the phone contacts. | [Click here](p8-CallAndSaveApp/) |
 
----
-
-### Note⚠:
-* The [main](https://github.com/Raghuvorkady/MAD-LAB-Programs/tree/main) branch is maintained for only VTU external lab examination.
-* The [update](https://github.com/Raghuvorkady/MAD-LAB-Programs/tree/update) branch is maintained for adding/updating extra features.
----
-
 ## References:
 1. To download latest Android Studio, click [here](https://developer.android.com/studio).
-2. Click [here](https://youtu.be/0zx_eFyHRU0?t=371) to watch installation video.
 2. To enroll in Android Developer Fundamentals Course, click [here](https://developer.android.com/courses/fundamentals-training/overview-v2).
 3. For Android documentation, click [here](https://developer.android.com/guide).
-4. Click [here](Lab-Manual/18CSMP68_Lab_Manual.pdf) for the Lab manual.
